@@ -208,5 +208,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "13.0.0"
+  wave_transition_animation:
+    dependency: "direct main"
+    description:
+      name: wave_transition_animation
+      sha256: b922433da70b1fd8253fe090feeff3219790606b53df1a4b0ba1c0547ac4ec50
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
 sdks:
   dart: ">=3.3.3 <4.0.0"
+  flutter: ">=1.17.0"
